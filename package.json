@@ -3,6 +3,7 @@
   "author": "Anastasia Pirvu",
   "description": "A project that does awesome stuff",
   "keywords": ["coding", "freecodecamp", "surf"],
+  "license": "Freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
