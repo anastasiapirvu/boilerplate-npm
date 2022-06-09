@@ -1,12 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Anastasia Pirvu",
-  "description": "A project that does awesome stuff",
-  "keywords": ["coding", "freecodecamp", "surf"],
-  "license": "Freecodecamp",
-  "version": "1.2.0",
+	"author": "Anastasia Pirvu",
+	"description": "A project that does awesome stuff",
+	"keywords": [
+		"coding",
+		"freecodecamp",
+		"surf"
+	],
+	"license": "Freecodecamp",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
